@@ -11,7 +11,7 @@ A decision tree is a flowchart-like structure in which each internal node repres
 Decision trees are constructed via an algorithmic approach that identifies ways to split a data set based on different conditions. It is one of the most widely used and practical methods for supervised learning. Decision Trees are a non-parametric supervised learning method used for both classification and regression tasks.
 
 <h3>Terminologies related to Decision Tree</h3>
-•	Root node: the topmost tree node which divides into two homogeneous sets.
+•	Root node: the topmost tree node which divides into two homogeneous sets.</n>
 •	Decision node: a sub-node which further splits into other two sub-nodes.
 •	Terminal/Leaf node: the lowermost nodes or the nodes with no children that represents a class label (decision taken after computing all attributes)
 •	Splitting: dividing a node into two or more nodes. The splitting technique results in fully grown trees until the criteria of a class attribute are met. But a fully-grown tree is likely to over-fit the data which leads to poor accuracy on unseen observations. This is when Pruning comes into the picture.
